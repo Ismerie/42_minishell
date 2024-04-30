@@ -2,7 +2,7 @@
 
 42_minishell est un projet de groupe de l'école 42 dans lequel nous devons créer un **programme shel**l basé sur Bash en C.  
 Il implémente **les pipes** et **les redirections**, ainsi que **les variables d'environnement** et **les builtins commandes  `cd`, `echo`, `env`, `exit`, `export`, `pwd` and `unset`**.  
-Ce projet a été réalisé avec @tcharpen
+Ce projet a été réalisé avec [@ThibautCharpentier](https://github.com/ThibautCharpentier)
 
 ## 📋 Fonctionnalités
 
